@@ -11,7 +11,7 @@ from skimage.filters import gabor_kernel
 import itertools
 from utils import *
 
-# This implementation is based on the paper: A.Kumar and G.K.Pang. Defect detection in textured materials using gabor filters
+# This implementation is based on the paper:"Defect detection in textured materials using Gabor filters" (Ajay Kumar, Grantham Pang). Defect detection in textured materials using gabor filters
 
 
 FREQ_NUM = 4
